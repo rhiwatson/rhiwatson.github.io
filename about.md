@@ -1,6 +1,6 @@
 layout: page
 title: "About"
-permalink: /about
+permalink: /about/
 
 # Reed Watson
 * rwatsonxc@gmail.com
